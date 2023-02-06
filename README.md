@@ -4,6 +4,8 @@
 ![IntelliJ%20IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sAmH365&show_icons=true&theme=solarized-light)  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=npower5377)](https://solved.ac/npower5377/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sAmH365&repo=design-patterns)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sAmH365&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **sAmH365/sAmH365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

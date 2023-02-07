@@ -31,8 +31,6 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=npower5377)](https://solved.ac/npower5377/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sAmH365&repo=design-patterns)](https://github.com/anuraghazra/github-readme-stats)
 
-# :mailbox_with_mail: Contacts
-
 
 
 <!--

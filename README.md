@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:npower5377@gmail.com)](mailto:kimsh1691@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:npower5377@naver.com)](mailto:rlatngus1691@naver.com)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sAmH365&show_icons=true&theme=solarized-light)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sAmH365&show_icons=true&theme=solarized-light) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sAmH365&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 # 📒 Skills 
@@ -29,7 +29,7 @@
 * * *
 ### Study
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=npower5377)](https://solved.ac/npower5377/)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sAmH365&repo=design-patterns)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sAmH365&repo=design-patterns)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
 

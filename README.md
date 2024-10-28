@@ -1,5 +1,5 @@
 ### KWON SAE HIM
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=Tistory&link=https://100study-room.tistory.com/)](https://100study-room.tistory.com/)
+<!--[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=Tistory&link=https://100study-room.tistory.com/)](https://100study-room.tistory.com/) -->
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:npower5377@gmail.com)](mailto:kimsh1691@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:npower5377@naver.com)](mailto:rlatngus1691@naver.com)
 
